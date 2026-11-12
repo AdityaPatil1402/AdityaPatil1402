@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk/svg@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AdityaPatil1402
           outputs: |
