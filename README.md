@@ -1,6 +1,6 @@
 # Hey, I'm Aditya 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Development+Enthusiast;Exploring+Software+%26+Emerging+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=36BCF7&center=false&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Full-Stack+Development+Enthusiast;Building+Projects+%26+Learning;Exploring+Software+Engineering;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 🎓 Computer Science Undergraduate at **KLE Technological University**
 
@@ -26,28 +26,37 @@ I enjoy building practical applications, exploring new technologies, and turning
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=dark" />
+</p>
 
 **Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+</p>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark" />
+</p>
 
 **Machine Learning & Data**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" />
+</p>
 
 ---
 
@@ -77,5 +86,9 @@ I enjoy building practical applications, exploring new technologies, and turning
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaPatil1402&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaPatil1402&style=flat-square&color=36BCF7" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" />
 </p>
