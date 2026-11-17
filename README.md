@@ -4,7 +4,7 @@
 
 🎓 Computer Science Undergraduate at **KLE Technological University**
 
-I enjoy building practical applications, exploring new technologies, and turning ideas into working solutions. Currently strengthening my foundations in software development, problem-solving, and machine learning.
+I enjoy building practical applications, exploring new technologies, and turning ideas into working solutions. Currently strengthening my foundations in software development, problem-solving, and Machine Learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapatil1402)
 [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patiladitya1426@gmail.com)
